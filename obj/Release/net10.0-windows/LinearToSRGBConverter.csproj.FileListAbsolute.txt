@@ -1,0 +1,14 @@
+C:\Users\Xakzi\Desktop\Ny mapp (2)\LinearToSRGBConverter\obj\Release\net10.0-windows\LinearToSRGBConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xakzi\Desktop\Ny mapp (2)\LinearToSRGBConverter\obj\Release\net10.0-windows\LinearToSRGBConverter.AssemblyInfoInputs.cache
+C:\Users\Xakzi\Desktop\Ny mapp (2)\LinearToSRGBConverter\obj\Release\net10.0-windows\LinearToSRGBConverter.AssemblyInfo.cs
+C:\Users\Xakzi\Desktop\Ny mapp (2)\LinearToSRGBConverter\obj\Release\net10.0-windows\LinearToSRGBConverter.csproj.CoreCompileInputs.cache
+C:\Users\Xakzi\Desktop\Ny mapp (2)\LinearToSRGBConverter\bin\Release\net10.0-windows\LinearToSRGBConverter.exe
+C:\Users\Xakzi\Desktop\Ny mapp (2)\LinearToSRGBConverter\bin\Release\net10.0-windows\LinearToSRGBConverter.deps.json
+C:\Users\Xakzi\Desktop\Ny mapp (2)\LinearToSRGBConverter\bin\Release\net10.0-windows\LinearToSRGBConverter.runtimeconfig.json
+C:\Users\Xakzi\Desktop\Ny mapp (2)\LinearToSRGBConverter\bin\Release\net10.0-windows\LinearToSRGBConverter.dll
+C:\Users\Xakzi\Desktop\Ny mapp (2)\LinearToSRGBConverter\bin\Release\net10.0-windows\LinearToSRGBConverter.pdb
+C:\Users\Xakzi\Desktop\Ny mapp (2)\LinearToSRGBConverter\obj\Release\net10.0-windows\LinearToSRGBConverter.dll
+C:\Users\Xakzi\Desktop\Ny mapp (2)\LinearToSRGBConverter\obj\Release\net10.0-windows\refint\LinearToSRGBConverter.dll
+C:\Users\Xakzi\Desktop\Ny mapp (2)\LinearToSRGBConverter\obj\Release\net10.0-windows\LinearToSRGBConverter.pdb
+C:\Users\Xakzi\Desktop\Ny mapp (2)\LinearToSRGBConverter\obj\Release\net10.0-windows\LinearToSRGBConverter.genruntimeconfig.cache
+C:\Users\Xakzi\Desktop\Ny mapp (2)\LinearToSRGBConverter\obj\Release\net10.0-windows\ref\LinearToSRGBConverter.dll
