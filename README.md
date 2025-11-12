@@ -7,8 +7,10 @@ Very simple and small program
 
 To build it yourself,
 
-Clone
-Open CMD
+Clone ->
+
+Open CMD ->
+
 write "dotnet publish -c Release -r win-x64"
 
 You need .net SDK 10 to build it.
