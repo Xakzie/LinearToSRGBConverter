@@ -2,9 +2,28 @@
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFramework>net5.0-windows</TargetFramework>
+    <TargetFramework>net10.0-windows</TargetFramework>
     <UseWindowsForms>true</UseWindowsForms>
-    <Nullable>enable</Nullable>
+
+    <!-- ✅ Publish as single-file -->
+    <PublishSingleFile>true</PublishSingleFile>
+
+    <!-- ✅ Framework-dependent (smaller size) -->
+    <SelfContained>false</SelfContained>
+
+    <!-- Optional: enable trimming for extra size reduction (test carefully) -->
+    <PublishTrimmed>false</PublishTrimmed>
+
+    <!-- Optional: remove debug info for smaller size -->
+    <DebugType>none</DebugType>
+    <DebugSymbols>false</DebugSymbols>
+
+    <!-- ✅ Custom icon -->
+    <ApplicationIcon>Assets\myIcon2.ico</ApplicationIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="Assets\myIcon2.ico" />
+  </ItemGroup>
 
 </Project>

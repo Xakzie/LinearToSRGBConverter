@@ -3,7 +3,7 @@ using System.Windows.Forms;
 
 namespace LinearToSRGBConverter
 {
-    static class Program
+    internal static class Program
     {
         [STAThread]
         static void Main()
