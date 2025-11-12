@@ -36,7 +36,7 @@ namespace LinearToSRGBConverter
             Button convertButton = new Button() { Text = "Convert", Top = 100, Left = 50, Width = 80, Height = 40 };
             convertButton.Click += ConvertButton_Click;
 			
-			labelCredit = new Label() {Text = "Made By Xakzi, v1.0", Top = 145, Width = 200};
+			labelCredit = new Label() {Text = "Made By Xakzi, v1.01", Top = 145, Width = 200};
 
             colorPanel = new Panel()
             {
